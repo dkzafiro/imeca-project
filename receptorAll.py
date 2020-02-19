@@ -8,7 +8,7 @@ while True:
 	IMECARRAY=[]
 	
 	#CALCULOS EN RANGO 2 DE https://www.redalyc.org/pdf/944/94403111.pdf
-	
+	#hola 
 	#Recibe O3
 	O3 = ser.readline().decode()
 	O3 = O3.replace("\r\n","")
